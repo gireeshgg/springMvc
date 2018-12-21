@@ -40,5 +40,4 @@
     <bean id="d" class="com.mindtree.doa.EmployeeDoaImple">  
     <property name="template" ref="template"></property>  
     </bean>  
-       --
     </beans> 
