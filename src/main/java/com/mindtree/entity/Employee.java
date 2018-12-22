@@ -10,6 +10,7 @@ import org.hibernate.validator.constraints.Range;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+
 @Scope("prototype")
 @Component
 @Entity
