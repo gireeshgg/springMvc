@@ -13,7 +13,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         
-        Employee e = new Employekmkonmkojnmkoknmkolm kojnme();
+        Employee e = new Employee();
         e.setId(156);  
 	    e.setFullname("varun");  
 	    e.setDob("dfghj");
