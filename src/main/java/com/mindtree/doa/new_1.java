@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 import com.mindtree.entity.Employee;
 @Repository
-public class EmployeeDoaImple {
+public class new_1 {
 		
 		HibernateTemplate template = new HibernateTemplate();
 		
